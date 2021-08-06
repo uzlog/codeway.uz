@@ -26,6 +26,8 @@
   "author": "The serverless webpack authors (https://github.com/elastic-coders/serverless-webpack)",
   "license": "MIT",
   "dependencies": {
+    "babel-cli": "^6.26.0",
+    "cross-env": "^7.0.3",
     "koa": "^2.4.1",
     "koa-router": "^7.3.0",
     "nodemon": "^1.12.1",
